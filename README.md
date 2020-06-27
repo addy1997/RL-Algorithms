@@ -13,6 +13,19 @@
 * [Q_learning](#Q_learning)
 * [Monte_Carlo](#Monte_Carlo)
 
+## [Epsilon Greedy](#RL-Algorithms)
+
+## [Epsilon Decay](#RL-Algorithms)
+
+## [Gradient-Bandits](#RL-Algorithms)
+
+## [SARSA](#RL-Algorithms)
+
+## [Q_learning](#RL-Algorithms)
+
+## [Monte_carlo](#RL-Algorithms)
+
+
 
 
 
