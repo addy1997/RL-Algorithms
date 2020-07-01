@@ -23,6 +23,23 @@
 
 ## [SARSA](#RL-Algorithms)
 
+# Algorithm 
+![logo](https://github.com/addy1997/RL-Algorithms/blob/master/SARSA/SARSA_psuedo.png)
+
+# Theory
+
+**SARSA** is algorithm based on **on-policy** **TD(0)** method fro control tasks in reinforcement learning.
+It follows **Generalised Policy Iteration** strategy: as the policy **π** becomes greedy with respect to the state-action value function, the state-action value function becomes more optimal.
+
+* We learn the **state-action value** function **Q(s,a)** rather than **state-value** **V(s)**.
+* Here, **qπ(s,a)** is the estimate for the current **behavior policy π** for all the state-actions pairs (s,a).
+* Initialising a suitable state **s** (s should not be a terminal state).
+* Choose an appropriate action **A** under the policy **epsilon-greedy or epsilon-soft**.
+* Record the values of the **state S'** and the **reward R**.
+* Update the function -> _Q(S, A) ← Q(S, A) + αR + γQ(S′, A′) − Q(S, A)_
+
+* This loop runs till it encounters a terminal state where **Q(s',a')** = 0.
+
 ## [Q_learning](#RL-Algorithms)
 
 ## [Monte_carlo](#RL-Algorithms)
