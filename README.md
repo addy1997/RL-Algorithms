@@ -41,6 +41,10 @@ It follows **Generalised Policy Iteration** strategy: as the policy **π** becom
 
 * This loop runs till it encounters a terminal state where **Q(s',a')** = 0.
 
+# SARSA update rule
+
+![logo](https://github.com/addy1997/RL-Algorithms/blob/master/SARSA/sarsa2.png)
+
 ## [Q_learning](#RL-Algorithms)
 
 **Q-learning** similar to **SARSA**, is based on **off-policy TD(0)** control method. Both the algorithms aim to estimate the **Qπ(s, a)** value for all the **state-action** pairs invlved in the task. 
