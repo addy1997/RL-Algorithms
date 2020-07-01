@@ -21,6 +21,7 @@
 
 ## [Gradient-Bandits](#RL-Algorithms)
 
+
 ## [SARSA](#RL-Algorithms)
 
 # Algorithm 
@@ -28,8 +29,8 @@
 
 # Theory
 
-**SARSA** is algorithm based on **on-policy** **TD(0)** method fro control tasks in reinforcement learning.
-It follows **Generalised Policy Iteration** strategy: as the policy **π** becomes greedy with respect to the state-action value function, the state-action value function becomes more optimal.
+**SARSA** or _State-Action-Reward-State-Action_ is an algorithm based on **on-policy** **TD(0)** control method in reinforcement learning.
+It follows **Generalised Policy Iteration** strategy: as the policy **π** becomes greedy with respect to the state-action value function, the state-action value function becomes more optimal. Our aim is to estimate **Qπ(s, a)** for the current policy π and all state-action (s-a) pairs.
 
 * We learn the **state-action value** function **Q(s,a)** rather than **state-value** **V(s)**.
 * Here, **qπ(s,a)** is the estimate for the current **behavior policy π** for all the state-actions pairs (s,a).
@@ -41,6 +42,19 @@ It follows **Generalised Policy Iteration** strategy: as the policy **π** becom
 * This loop runs till it encounters a terminal state where **Q(s',a')** = 0.
 
 ## [Q_learning](#RL-Algorithms)
+
+**Q-learning** similar to **SARSA**, is based on **off-policy TD(0)** control method. Both the algorithms aim to estimate the **Qπ(s, a)** value for all the **state-action** pairs invlved in the task. 
+
+# Q-learning Algorithm 
+
+![logo](https://github.com/addy1997/RL-Algorithms/blob/master/Q-learning/Q_learning2.png)
+
+# Q-leaning vs SARSA
+The only difference is that in **SARSA** the action **a'** to go from **current state** to the **next state** is selected by the same policy **π** (behavioral policy). Whereas in **Q-learning**, the action **a'** to go from **present state** to **next state** is selected in **greedy** manner, i.e., there are less chances of choosing a random action in a state. Hence, it involves more explotaiton than exploration. 
+
+# Q-learning update rule
+![logo](https://github.com/addy1997/RL-Algorithms/blob/master/Q-learning/Q_learning1.png)
+
 
 ## [Monte_carlo](#RL-Algorithms)
 
