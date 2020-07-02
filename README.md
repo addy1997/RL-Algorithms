@@ -59,7 +59,13 @@ The only difference is that in **SARSA** the action **a'** to go from **current 
 ![logo](https://github.com/addy1997/RL-Algorithms/blob/master/Q-learning/Q_learning1.png)
 
 
-## [Monte_carlo](#RL-Algorithms)
+## [Extended SARSA](#RL-Algorithms)
+
+
+## [Double SARSA](#RL-Algorithms)
+
+
+## [Double Ext. SARSA](#RL-Algorithms)
 
 
 
