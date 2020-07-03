@@ -12,6 +12,9 @@
 * [Gradient Bandits](#Gradient-Bandits) 
 * [SARSA](#SARSA)
 * [Q_learning](#Q_learning)
+* [Expected-SARSA](#Expected-SARSA)
+* [Double-SARSA](#Double-SARSA)
+* [Expected-Double-SARSA](#Expected-Double-SARSA)
 * [Monte_Carlo](#Monte_Carlo)
 
 ## [Epsilon Greedy](#RL-Algorithms)
@@ -59,13 +62,13 @@ The only difference is that in **SARSA** the action **a'** to go from **current 
 ![logo](https://github.com/addy1997/RL-Algorithms/blob/master/Q-learning/Q_learning1.png)
 
 
-## [Expected SARSA](#RL-Algorithms)
+## [Expected-SARSA](#RL-Algorithms)
 
 
-## [Double SARSA](#RL-Algorithms)
+## [Double-SARSA](#RL-Algorithms)
 
 
-## [Double Ext. SARSA](#RL-Algorithms)
+## [Expected-Double-SARSA](#RL-Algorithms)
 
 
 
