@@ -70,9 +70,12 @@ The only difference is that in **SARSA** the action **a'** to go from **current 
 
 
 
-## References
+## References repositories
 
 * [Vanilla DQN, Double DQN, and Dueling DQN in PyTorch](https://github.com/dxyang/DQN_pytorch)
 * [Deep Reinforcement Learning for Keras](https://github.com/keras-rl/keras-rl)
 * [Deep Reinforcement Learning with pytorch & visdom](https://github.com/jingweiz/pytorch-rl)
+* [Minimal PyTorch DQN](https://github.com/econti/minimal_dqn)
+* [deep-Q-networks: Implementation of algorithms from the Q-learning family](https://github.com/cyoon1729/deep-Q-networks)
+* [keras-rl2 ](https://github.com/wau/keras-rl2)
 
