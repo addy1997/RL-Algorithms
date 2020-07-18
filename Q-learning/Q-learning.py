@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[40]:
-
-
 import random
 
 class Q_learning:
@@ -72,11 +66,3 @@ class Q_learning:
             action_idx = Q_values.index(Q_max)
             
             return self.action[action_idx]
-        
-
-
-# In[ ]:
-
-
-
-
