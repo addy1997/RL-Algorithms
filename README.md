@@ -15,7 +15,7 @@
 * [Double-SARSA](#Double-SARSA)
 * [Expected-Double-SARSA](#Expected-Double-SARSA)
 * [Monte_Carlo](#Monte_Carlo)
-* [Reference repositories](#Reference repositories)
+* [Reference repositories](#Reference-repositories)
 
 ## [Epsilon](#RL-Algorithms)
 
