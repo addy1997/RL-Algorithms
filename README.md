@@ -7,8 +7,7 @@
 
 #### Table of Contents
 
-* [Epsilon Greedy](#Epsilon-Greedy)
-* [Epsilon Decay](#Epsilon-Decay)
+* [Epsilon](#Epsilon)
 * [Gradient Bandits](#Gradient-Bandits) 
 * [SARSA](#SARSA)
 * [Q_learning](#Q_learning)
@@ -17,9 +16,8 @@
 * [Expected-Double-SARSA](#Expected-Double-SARSA)
 * [Monte_Carlo](#Monte_Carlo)
 
-## [Epsilon Greedy](#RL-Algorithms)
+## [Epsilon](#RL-Algorithms)
 
-## [Epsilon Decay](#RL-Algorithms)
 
 ## [Gradient-Bandits](#RL-Algorithms)
 
