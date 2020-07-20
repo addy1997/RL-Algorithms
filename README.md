@@ -71,7 +71,7 @@ The only difference is that in **SARSA** the action **a'** to go from **current 
 
 
 
-## Reference (#RL-Algorithms)
+## [Reference](#RL-Algorithms)
 
 * [Vanilla DQN, Double DQN, and Dueling DQN in PyTorch](https://github.com/dxyang/DQN_pytorch)
 * [Deep Reinforcement Learning for Keras](https://github.com/keras-rl/keras-rl)
