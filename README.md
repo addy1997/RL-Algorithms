@@ -79,4 +79,4 @@ The only difference is that in **SARSA** the action **a'** to go from **current 
 * [Minimal PyTorch DQN](https://github.com/econti/minimal_dqn)
 * [deep-Q-networks: Implementation of algorithms from the Q-learning family](https://github.com/cyoon1729/deep-Q-networks)
 * [keras-rl2 ](https://github.com/wau/keras-rl2)
-
+* [RL-Adventure](https://github.com/higgsfield/RL-Adventure)
