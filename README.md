@@ -15,7 +15,7 @@
 * [Double-SARSA](#Double-SARSA)
 * [Expected-Double-SARSA](#Expected-Double-SARSA)
 * [Monte_Carlo](#Monte_Carlo)
-* [Reference](#Reference)
+* [References](#References)
 
 ## [Epsilon](#RL-Algorithms)
 
@@ -55,7 +55,7 @@ It follows **Generalised Policy Iteration** strategy: as the policy **π** becom
 ![logo](https://github.com/addy1997/RL-Algorithms/blob/master/assets/Q_learning2.png)
 
 # Q-leaning vs SARSA
-The only difference is that in **SARSA** the action **a'** to go from **current state** to the **next state** is selected by the same policy **π** (behavioral policy). Whereas in **Q-learning**, the action **a'** to go from **present state** to **next state** is selected in **greedy** manner, i.e., there are less chances of choosing a random action in a state. Hence, it involves more explotaiton than exploration. 
+The only difference is that in **SARSA** the action **a'** to go from **current state** to the **next state** is selected by the same policy **π** (behavioral policy). Whereas in **Q-learning**, the action **a'** to go from **present state** to **next state** is selected in **greedy** manner, i.e., there are fewer chances of choosing a random action in a state. Hence, it involves more explotaiton than exploration. 
 
 # Q-learning update rule
 ![logo](https://github.com/addy1997/RL-Algorithms/blob/master/assets/Q_learning1.png)
@@ -71,7 +71,7 @@ The only difference is that in **SARSA** the action **a'** to go from **current 
 
 
 
-## [Reference](#RL-Algorithms)
+## [References](#RL-Algorithms)
 
 * [Vanilla DQN, Double DQN, and Dueling DQN in PyTorch](https://github.com/dxyang/DQN_pytorch)
 * [Deep Reinforcement Learning for Keras](https://github.com/keras-rl/keras-rl)
