@@ -52,13 +52,13 @@ It follows **Generalised Policy Iteration** strategy: as the policy **π** becom
 
 # Q-learning Algorithm 
 
-![logo](https://github.com/addy1997/RL-Algorithms/blob/master/assets/Q_learning1.png)
+![logo](https://github.com/addy1997/RL-Algorithms/blob/master/assets/Q_learning2.png)
 
 # Q-leaning vs SARSA
 The only difference is that in **SARSA** the action **a'** to go from **current state** to the **next state** is selected by the same policy **π** (behavioral policy). Whereas in **Q-learning**, the action **a'** to go from **present state** to **next state** is selected in **greedy** manner, i.e., there are less chances of choosing a random action in a state. Hence, it involves more explotaiton than exploration. 
 
 # Q-learning update rule
-![logo](https://github.com/addy1997/RL-Algorithms/blob/master/assets/Q_learning2.png)
+![logo](https://github.com/addy1997/RL-Algorithms/blob/master/assets/Q_learning1.png)
 
 
 ## [Expected-SARSA](#RL-Algorithms)
