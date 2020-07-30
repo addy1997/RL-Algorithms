@@ -14,7 +14,6 @@
 * [Expected-SARSA](#Expected-SARSA)
 * [Double-SARSA](#Double-SARSA)
 * [Expected-Double-SARSA](#Expected-Double-SARSA)
-* [Monte_Carlo](#Monte_Carlo)
 * [References](#References)
 
 ## [Epsilon](#RL-Algorithms)
