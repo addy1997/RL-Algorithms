@@ -63,6 +63,10 @@ The only difference is that in **SARSA** the action **a'** to go from **current 
 
 ## [Expected-SARSA](#RL-Algorithms)
 
+# Algorithm
+
+![algorithm](https://github.com/addy1997/RL-Algorithms/blob/master/assets/expected-sarsa.png)
+
 
 ## [Double-SARSA](#RL-Algorithms)
 
