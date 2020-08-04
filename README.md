@@ -8,7 +8,6 @@
 #### Table of Contents
 
 * [Epsilon](#Epsilon)
-* [Gradient Bandits](#Gradient-Bandits) 
 * [SARSA](#SARSA)
 * [Q_learning](#Q_learning)
 * [Expected-SARSA](#Expected-SARSA)
