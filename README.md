@@ -18,9 +18,6 @@
 ## [Epsilon](#RL-Algorithms)
 
 
-## [Gradient-Bandits](#RL-Algorithms)
-
-
 ## [SARSA](#RL-Algorithms)
 
 # Algorithm 
