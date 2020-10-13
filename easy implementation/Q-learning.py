@@ -7,7 +7,6 @@ class Q_learning:
         self.action = action
         self.alpha = alpha
         self.gamma = gamma
-        
         self.s_terminal = s_
         
         
